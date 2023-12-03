@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-03T09:43:11.989Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="hJX9CHYSVmFfQDgttfgG" version="22.1.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-03T12:13:22.853Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="Ml_y66ccqtD0CHkFnM9P" version="22.1.5" type="github" pages="5">
   <diagram name="第 1 页" id="OLtmOnj1G0xmocBiT_f8">
-    <mxGraphModel dx="2918" dy="2832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1373" dy="1951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,7 +152,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zD0eJCW0B57OZEV-lel7-75" value="发放教师录入分数权限" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="730" y="1329" width="120" height="80" as="geometry" />
+          <mxGeometry x="790" y="1230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zD0eJCW0B57OZEV-lel7-76" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.018;exitY=0.404;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.987;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="zD0eJCW0B57OZEV-lel7-77" target="zD0eJCW0B57OZEV-lel7-66" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -161,7 +161,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zD0eJCW0B57OZEV-lel7-77" value="开放学生查分权限" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="730" y="1229" width="120" height="80" as="geometry" />
+          <mxGeometry x="670" y="1160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zD0eJCW0B57OZEV-lel7-78" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -190,7 +190,7 @@
             <mxPoint x="1710" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zD0eJCW0B57OZEV-lel7-85" value="课程名称" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="zD0eJCW0B57OZEV-lel7-84" vertex="1" connectable="0">
+        <mxCell id="zD0eJCW0B57OZEV-lel7-85" value="查询成绩请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="zD0eJCW0B57OZEV-lel7-84" vertex="1" connectable="0">
           <mxGeometry x="-0.1094" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -229,7 +229,7 @@
             <mxPoint x="1532.6999999999998" y="718.9000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zD0eJCW0B57OZEV-lel7-95" value="课程名称" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="zD0eJCW0B57OZEV-lel7-94" vertex="1" connectable="0">
+        <mxCell id="zD0eJCW0B57OZEV-lel7-95" value="查询成绩请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="zD0eJCW0B57OZEV-lel7-94" vertex="1" connectable="0">
           <mxGeometry x="-0.1094" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1587,6 +1587,14 @@
         <mxCell id="bGjyti_hRzQ3i18kf2mk-14" value="成绩大于60" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1920" y="1139" width="80" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="l328OKvWVektABGj6xdh" name="第 5 页">
+    <mxGraphModel dx="1167" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
